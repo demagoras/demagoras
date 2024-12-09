@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **Java and Web Design**
 - 📫 How to reach me: **tiandrexyz@gmail.com**
+- ⚡ Fun fact: My username comes from an obscure admiral from Rhodes, Greece who fought on Rome's side
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
