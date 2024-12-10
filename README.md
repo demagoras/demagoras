@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm demagoras</h1>
+<h1 align="center">Hi 👋, I'm Tiago André</h1>
 <h3 align="center">A passionate scientist and developer</h3>
 
 - 🌱 I’m currently learning **Java and Web Design**
