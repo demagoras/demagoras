@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tiago André</h1>
-<h3 align="center">A passionate scientist and developer</h3>
-
-- 🌱 I’m currently learning **Java and Web Design**
-- 📫 How to reach me: **tiandrexyz@gmail.com**
-- ⚡ Fun fact: My username comes from an obscure admiral from Rhodes, Greece who fought on Rome's side
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -17,4 +10,4 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-tiago-andres-projects.vercel.app/api/top-langs?username=demagoras&show_icons=true&locale=en&layout=compact&theme=dark" alt="demagoras" /></p>
+<p><img align="left" src="https://github-readme-stats-tiago-andres-projects.vercel.app/api/top-langs?username=demagoras&locale=en&layout=compact&theme=dark" alt="demagoras" /></p>
