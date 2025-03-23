@@ -10,4 +10,4 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-tiago-andres-projects.vercel.app/api/top-langs?username=demagoras&locale=en&layout=compact&theme=dark" alt="demagoras" /></p>
+<p><img align="left" src="https://github-readme-stats-tiago-andres-projects.vercel.app/api/top-langs?username=demagoras&layout=compact&theme=dark" alt="demagoras" /></p>
